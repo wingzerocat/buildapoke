@@ -1,0 +1,346 @@
+id,item
+146,Pomeg Berry
+147,Kelpsy Berry
+148,Qualot Berry
+149,Hondew Berry
+150,Grepa Berry
+151,Tamato Berry
+126,Cheri Berry
+127,Chesto Berry
+128,Pecha Berry
+129,Rawst Berry
+130,Aspear Berry
+131,Leppa Berry
+132,Oran Berry
+133,Persim Berry
+134,Lum Berry
+135,Sitrus Berry
+185,Enigma Berry
+188,Jaboca Berry
+189,Rowap Berry
+724,Kee Berry
+725,Maranga Berry
+178,Liechi Berry
+179,Ganlon Berry
+180,Salac Berry
+181,Petaya Berry
+182,Apicot Berry
+183,Lansat Berry
+184,Starf Berry
+186,Micle Berry
+187,Custap Berry
+136,Figy Berry
+137,Wiki Berry
+138,Mago Berry
+139,Aguav Berry
+140,Iapapa Berry
+161,Occa Berry
+162,Passho Berry
+163,Wacan Berry
+164,Rindo Berry
+165,Yache Berry
+166,Chople Berry
+167,Kebia Berry
+168,Shuca Berry
+169,Coba Berry
+170,Payapa Berry
+171,Tanga Berry
+172,Charti Berry
+173,Kasib Berry
+174,Haban Berry
+175,Colbur Berry
+176,Babiri Berry
+177,Chilan Berry
+723,Roseli Berry
+141,Razz Berry
+142,Bluk Berry
+143,Nanab Berry
+144,Wepear Berry
+145,Pinap Berry
+152,Cornn Berry
+153,Magost Berry
+154,Rabuta Berry
+155,Nomel Berry
+156,Spelon Berry
+157,Pamtre Berry
+158,Watmel Berry
+159,Durin Berry
+160,Belue Berry
+190,Bright Powder
+191,White Herb
+194,Quick Claw
+196,Mental Herb
+198,Kings Rock
+205,Smoke Ball
+207,Focus Band
+209,Scope Lens
+211,Leftovers
+230,Shell Bell
+232,Lax Incense
+242,Wide Lens
+243,Muscle Band
+244,Wise Glasses
+245,Expert Belt
+246,Light Clay
+247,Life Orb
+248,Power Herb
+252,Focus Sash
+253,Zoom Lens
+254,Metronome
+257,Destiny Knot
+258,Black Sludge
+259,Icy Rock
+260,Smooth Rock
+261,Heat Rock
+262,Damp Rock
+263,Grip Claw
+272,Shed Shell
+273,Big Root
+303,Razor Claw
+304,Razor Fang
+581,Eviolite
+582,Float Stone
+583,Rocky Helmet
+584,Air Balloon
+585,Red Card
+586,Ring Target
+587,Binding Band
+588,Absorb Bulb
+589,Cell Battery
+590,Eject Button
+616,Pass Orb
+682,Weakness Policy
+683,Assault Vest
+688,Luminous Moss
+689,Snowball
+690,Safety Goggles
+883,Adrenaline Orb
+896,Terrain Extender
+897,Protective Pads
+898,Electric Seed
+899,Psychic Seed
+900,Misty Seed
+901,Grassy Seed
+197,Choice Band
+264,Choice Scarf
+274,Choice Specs
+192,Macho Brace
+266,Power Bracer
+267,Power Belt
+268,Power Lens
+269,Power Band
+270,Power Anklet
+271,Power Weight
+249,Toxic Orb
+250,Flame Orb
+255,Iron Ball
+256,Lagging Tail
+265,Sticky Barb
+293,Full Incense
+193,Exp Share
+195,Soothe Bell
+200,Amulet Coin
+201,Cleanse Tag
+206,Everstone
+208,Lucky Egg
+296,Luck Incense
+297,Pure Incense
+275,Flame Plate
+276,Splash Plate
+277,Zap Plate
+278,Meadow Plate
+279,Icicle Plate
+280,Fist Plate
+281,Toxic Plate
+282,Earth Plate
+283,Sky Plate
+284,Mind Plate
+285,Insect Plate
+286,Stone Plate
+287,Spooky Plate
+288,Draco Plate
+289,Dread Plate
+290,Iron Plate
+684,Pixie Plate
+112,Adamant Orb
+113,Lustrous Orb
+202,Soul Dew
+203,Deep Sea Tooth
+204,Deep Sea Scale
+213,Light Ball
+233,Lucky Punch
+234,Metal Powder
+235,Thick Club
+236,Stick
+251,Quick Powder
+442,Griseous Orb
+563,Douse Drive
+564,Shock Drive
+565,Burn Drive
+566,Chill Drive
+889,Red Nectar
+890,Yellow Nectar
+891,Pink Nectar
+892,Purple Nectar
+199,Silver Powder
+210,Metal Coat
+214,Soft Sand
+215,Hard Stone
+216,Miracle Seed
+217,Black Glasses
+218,Black Belt
+219,Magnet
+220,Mystic Water
+221,Sharp Beak
+222,Poison Barb
+223,Never Melt Ice
+224,Spell Tag
+225,Twisted Spoon
+226,Charcoal
+227,Dragon Fang
+228,Silk Scarf
+231,Sea Incense
+291,Odd Incense
+292,Rock Incense
+294,Wave Incense
+295,Rose Incense
+237,Red Scarf
+238,Blue Scarf
+239,Pink Scarf
+240,Green Scarf
+241,Yellow Scarf
+591,Fire Gem
+592,Water Gem
+593,Electric Gem
+594,Grass Gem
+595,Ice Gem
+596,Fighting Gem
+597,Poison Gem
+598,Ground Gem
+599,Flying Gem
+600,Psychic Gem
+601,Bug Gem
+602,Rock Gem
+603,Ghost Gem
+604,Dark Gem
+605,Steel Gem
+668,Dragon Gem
+669,Normal Gem
+731,Fairy Gem
+633,Dire Hit 2
+634,X Speed 2
+635,X Sp Atk 2
+636,X Sp Def 2
+637,X Defense 2
+638,X Attack 2
+639,X Accuracy 2
+640,X Speed 3
+641,X Sp Atk 3
+642,X Sp Def 3
+643,X Defense 3
+644,X Attack 3
+645,X Accuracy 3
+646,X Speed 6
+647,X Sp Atk 6
+648,X Sp Def 6
+649,X Defense 6
+650,X Attack 6
+651,X Accuracy 6
+652,Ability Urge
+653,Item Drop
+654,Item Urge
+655,Reset Urge
+656,Dire Hit 3
+695,Gengarite
+696,Gardevoirite
+697,Ampharosite
+698,Venusaurite
+699,Charizardite X
+700,Blastoisinite
+701,Mewtwonite X
+702,Mewtwonite Y
+703,Blazikenite
+704,Medichamite
+705,Houndoominite
+706,Aggronite
+707,Banettite
+708,Tyranitarite
+709,Scizorite
+710,Pinsirite
+711,Aerodactylite
+712,Lucarionite
+713,Abomasite
+714,Kangaskhanite
+715,Gyaradosite
+716,Absolite
+717,Charizardite Y
+718,Alakazite
+719,Heracronite
+720,Mawilite
+721,Manectite
+722,Garchompite
+760,Latiasite
+761,Latiosite
+793,Swampertite
+794,Sceptilite
+795,Sablenite
+796,Altarianite
+797,Galladite
+798,Audinite
+799,Metagrossite
+800,Sharpedonite
+801,Slowbronite
+802,Steelixite
+803,Pidgeotite
+804,Glalitite
+805,Diancite
+808,Cameruptite
+809,Lopunnite
+810,Salamencite
+811,Beedrillite
+902,Fighting Memory
+903,Flying Memory
+904,Poison Memory
+905,Ground Memory
+906,Rock Memory
+907,Bug Memory
+908,Ghost Memory
+909,Steel Memory
+910,Fire Memory
+911,Water Memory
+912,Grass Memory
+913,Electric Memory
+914,Psychic Memory
+915,Ice Memory
+916,Dragon Memory
+917,Dark Memory
+918,Fairy Memory
+817,Normalium Z 
+818,Firium Z 
+819,Waterium Z 
+820,Electrium Z 
+821,Grassium Z 
+822,Icium Z 
+823,Fightinium Z 
+824,Poisonium Z 
+825,Groundium Z 
+826,Flyinium Z 
+827,Psychium Z 
+828,Buginium Z 
+829,Rockium Z 
+830,Ghostium Z 
+831,Dragonium Z 
+832,Darkinium Z 
+833,Steelium Z 
+834,Fairium Z 
+835,Pikanium Z 
+839,Decidium Z 
+840,Incinium Z 
+841,Primarium Z 
+842,Tapunium Z 
+843,Marshadium Z 
+844,Aloraichium Z 
+845,Snorlium Z 
+846,Eevium Z 
+847,Mewnium Z 
+877,Pikashunium Z 

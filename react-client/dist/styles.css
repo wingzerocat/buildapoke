@@ -1,0 +1,242 @@
+body {
+    width: 100%;
+    font-size: 12px;
+    background-image: url('./WcN4WnG.jpg');
+    font-family: Verdana,Geneva,sans-serif; 
+}
+
+.css-1hwfws3 {
+    width: 200px;
+}
+
+.container {
+    width: 900px;
+    background-color: rgb(222, 232, 249, .75);
+
+    border-radius: 5px;
+}
+.liner {
+    display: flex;
+    justify-content: space-between;
+}
+.bot {
+    position: absolute;
+    bottom: 0;
+}
+.col-sm {
+    justify-content: center;
+}
+.row.items {
+    justify-content: center;
+    height: 38px;
+    width: 239px;
+    border-radius: 4px;
+    border: 0;
+    margin: 0 auto;
+    padding-left: 10px;
+}
+.row.move {
+    height: 30px;
+    width: 200px;
+    border-radius: 4px;
+    border: 0;
+    padding-left: 10px;
+    margin: 0 auto;
+}
+.deit {
+    height: 35px;
+    width: 660px;
+}
+.table {
+    text-align: center;
+    align-items: center;
+    background: rgba(249, 240, 222, 0.85);
+}
+.move-list {
+    border-radius: 5px;
+    background: rgba(222, 236, 249, 0.85);
+    height: 500px;
+    overflow-y: scroll;
+}
+.most {
+    width: 200px;
+}
+td {
+    text-align: center;
+    align-items: center;
+}
+
+.tower {
+    display: flex;
+    flex-direction: column;
+    width:300px;
+}
+.base {
+    width: 150px;
+}
+.evs {
+    width: 50px;
+}
+.desc {
+    padding-left: 10px;
+    width: 500px;
+}
+.slider {
+    width: 350px;
+}
+#app {
+    display: flex;
+    justify-content: center;
+}
+
+.btn.btn-primary {
+    background-color: green;
+    width: 400px;
+    border-color: transparent;
+}
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.spacer {
+    display: inline-block;
+    width: 18px;
+}
+
+.btn.btn-custom {
+    width: 55px;
+    background-color: #d9534f;
+    border-top-left-radius: 3px;
+}
+.btn.btn-big {
+    width: 300px;
+    background-color: #66a3ff;
+    border-top-right-radius: 3px;
+}
+.btn.btn-top {
+    background-color: #ffff66;
+    border-radius: 0px;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+img {
+    width: auto;
+    height: 100%;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+}
+
+.table td {
+    border-top: none;
+}
+
+.table.bars td {
+    padding: 0 !important;
+}
+
+.table.bars tr td:first-child{
+    width: 80px;
+}
+.table.bars tr td:first-child+td+td{
+    width: 80px;  
+}
+
+.progress-bar.hp {
+    background-color: #FF5959;
+}
+.progress-bar.atk {
+    background-color: #F5AC78;
+}
+.progress-bar.def {
+    background-color: #FAE078;
+}
+.progress-bar.spa {
+    background-color: #9DB7F5;
+}
+.progress-bar.spd {
+    background-color: #A7DB8D;
+}
+.progress-bar.spe {
+    background-color: #FA92B2;
+}
+/* .progress-bar.total {
+    background-color: #9DB7F5;
+} */
+/* Color types */
+.type-field {
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+.type {
+    display: inline-block;
+    width: 75px;
+    justify-content: center;
+    color: white;
+    border-radius: 4px;
+}
+/* .Normal {
+    background-color: #A8A878;
+}
+.Fire {
+    background-color: #F08030;
+}
+.Fighting {
+    background-color: #C03028;
+}
+.Water {
+    background-color: #6890F0;
+}
+.Flying {
+    background-color: #A890F0;
+}
+.Grass {
+    background-color: #78C850;
+}
+.Poison {
+    background-color: #A040A0;
+}
+.Electric {
+    background-color: #F8D030;
+}
+.Ground {
+    background-color: #E0C068;
+}
+.Psychic {
+    background-color: #F85888;
+}
+.Rock {
+    background-color: #B8A038;
+}
+.Ice {
+    background-color: #98D8D8;
+}
+.Bug {
+    background-color: #A8B820;
+}
+.Dragon {
+    background-color: #7038F8;
+}
+.Ghost {
+    background-color: #705898;
+}
+.Dark {
+    background-color: #705848;
+}
+.Steel {
+    background-color: #B8B8D0;
+}
+.Fairy {
+    background-color: #EE99AC;
+} */
